@@ -1,0 +1,19 @@
+* {
+    background-color: darkgray;
+}
+#article {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+#article img {
+    height: 300;
+    width: 400;
+}
+
+#newsHeader {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    
+}
